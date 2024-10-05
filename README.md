@@ -9,7 +9,6 @@ This repository contains a simple port scanning script written in Bash. The scri
 
 ## Features
 
-- Prints a banner with author information.
 - Checks and installs required packages (`nmap`).
 - Performs an initial port scan on the target IP.
 - Maps open ports found by `nmap`.
